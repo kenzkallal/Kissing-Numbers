@@ -5,4 +5,4 @@ The files of the form "S_i.txt" contain the vectors in the subsets S_i obtained 
 
 "minvects.txt" contains the ordering of the minimal vectors of the Leech Lattice used in our construction.
 
-"VBasis.txt" contains the basis of the Leech Lattice used in our construction. 
+"Vbasis.txt" contains the basis of the Leech Lattice used in our construction. 
